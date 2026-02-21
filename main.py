@@ -1,3 +1,6 @@
+# pip install pyinstaller
+# pyinstaller --onefile --windowed main.py
+
 import os
 import shutil
 import tkinter as tk
