@@ -3,7 +3,7 @@ Ever had a bunch of folders in one directory and you wish you could just flatten
 Well, here it is!
 
 
-Donload the latest .exe 
+Download the latest .exe 
 Double click and have fun!
 
-(If you are on Linix you know what to do lol)
+(If you are on Linux you know what to do lol)
